@@ -1,0 +1,22 @@
+# Node
+node_modules/
+npm-debug.log
+package-lock.json
+
+# TypeScript build output
+dist/
+build/
+
+# Angular
+frontend/dist/
+frontend/.angular/
+
+# Logs
+*.log
+
+# Env files (if you add them later)
+.env
+
+# IDE/editor
+.vscode/
+*.swp
